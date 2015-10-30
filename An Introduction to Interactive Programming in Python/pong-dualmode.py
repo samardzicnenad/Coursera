@@ -1,3 +1,4 @@
+import simplegui
 import random
 
 #globals
