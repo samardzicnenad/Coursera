@@ -1,4 +1,4 @@
-Coursera
+Coursera Algrithms-JAVA  
 ========
 
 Courses that I took on www.coursera.org
